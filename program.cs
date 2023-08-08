@@ -15,11 +15,11 @@ namespace ExercicioLista2 {
                 contVogal += car++;
                 switch (car) {
 
-                    case 'a': case 'A':
-                    case 'e': case 'E':
-                    case 'i': case 'I':
-                    case 'o': case 'O':            
-                    case 'u':  case 'U': 
+                     case 'A':
+                     case 'E':
+                     case 'I':
+                     case 'O':            
+                      case 'U': 
                       break;  
 
                 }
