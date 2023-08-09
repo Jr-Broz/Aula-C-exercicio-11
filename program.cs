@@ -21,17 +21,13 @@ namespace ExercicioLista2 {
                      case 'O':            
                       case 'U': 
                       break;  
-
                 }
-
                 Console.WriteLine("Entre com um Caracter");
                 car = char.Parse(Console.ReadLine());
                 
             }
 
             Console.WriteLine("Numero de vogais : " + contVogal);
-
-
         }
     }
 }
